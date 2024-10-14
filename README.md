@@ -7,3 +7,8 @@ Abstract:Underwater imagery often suffers from issues like color distortion, haz
 
 
 ![Attentive Color Fusion Transformer Network (ACFTNet) for Underwater Image Enhancement](ubaid_.jpg)
+
+
+
+## Acknowledgements 
+Special thanks to the awesome repositories [Spectroformer](https://github.com/Mdraqibkhan/Spectroformer) [UIPTA](https://github.com/Mdraqibkhan/UIEPTA) , which made this project possible.
