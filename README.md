@@ -18,11 +18,6 @@
   <h3 align="center"><a href="">Paper</h3>
   <div align="center"></div>
 </p>
-<p align="center">
-  <a href="">
-    <img src="Spectroformer.jpg" alt="Logo" width="100%">
-  </a>
-</p>
 
 (Code will be provided soon).
 
