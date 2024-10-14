@@ -12,7 +12,7 @@
     ·
     <a href="https://visionintelligence.github.io">Santosh Kumar Vipparthi</a>
     ·
-    <a href="http://www.cvlibs.net/](https://www.scss.tcd.ie/~muralas/">Subrahmanyam Murala</a>
+    <a href="https://www.scss.tcd.ie/~muralas/">Subrahmanyam Murala</a>
   </p>
   <h3 align="center">ICPR-2024</h3>
   <h3 align="center"><a href="">Paper</h3>
