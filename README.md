@@ -11,4 +11,4 @@ Abstract:Underwater imagery often suffers from issues like color distortion, haz
 
 
 ## Acknowledgements 
-Special thanks to the awesome repositories [Spectroformer](https://github.com/Mdraqibkhan/Spectroformer) [UIPTA](https://github.com/Mdraqibkhan/UIEPTA) , which made this project possible.
+Special thanks to the awesome repositories [Spectroformer](https://github.com/Mdraqibkhan/Spectroformer) and [UIPTA](https://github.com/Mdraqibkhan/UIEPTA) , which made this project possible.
